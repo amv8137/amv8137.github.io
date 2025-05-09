@@ -1,11 +1,11 @@
 ---
 layout: default
-title: My Portfolio
+title: UTA Computer Engineering Student
 ---
 
-# Welcome to My Portfolio
+# Welcome to My UTA Portfolio
 
-This is a sample GitHub Pages site powered by Jekyll and the `merlot` theme.
+This is a GitHub Pages site powered by Jekyll and the `merlot` theme.
 
 - 🔧 Project 1
 - 💻 Project 2
