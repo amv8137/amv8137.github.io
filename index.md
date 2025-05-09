@@ -5,7 +5,7 @@ title: My Portfolio
 
 # Welcome to My Portfolio
 
-This is a sample GitHub Pages site powered by Jekyll and the `hacker` theme.
+This is a sample GitHub Pages site powered by Jekyll and the `merlot` theme.
 
 - 🔧 Project 1
 - 💻 Project 2
